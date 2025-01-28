@@ -24,7 +24,7 @@
  * SOFTWARE.
  *
  */
-//adding comment to update
+
 
 #include <stdlib.h>
 #include <string.h>
